@@ -1,0 +1,17 @@
+#headline h1{
+   position:absolute;
+   color:#fff;
+   font-size: 30px;
+   bottom:100rem
+   /* top:0;
+   bottom:200px */
+
+}
+#header{
+   height:100px
+}
+#footer{
+   margin-top:40px;
+   margin-bottom: -200px;
+}
+ 
